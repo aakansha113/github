@@ -1,3 +1,2 @@
-print("hello world")
-print("hello")
-print("as")
+def example_function():
+    print("Hello, World!")
